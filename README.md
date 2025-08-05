@@ -1,5 +1,5 @@
 # Computer-Graphics
-This github repository is for my "Computer graphics and multimedia" Course .
+This github repository is for my "Computer graphics and multimedia Lab" Course .
 
 My info:
 
