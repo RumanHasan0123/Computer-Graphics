@@ -5,8 +5,9 @@ You will design an OpenGL program where three different types of triangles will 
 
 
 
-student info: 
-Gazi Ruman Hasan  
-0432310005101065  
+student info:   
+Gazi Ruman Hasan    
+0432310005101065    
 
 6B1
+
