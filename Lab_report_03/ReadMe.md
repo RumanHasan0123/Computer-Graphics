@@ -1,14 +1,12 @@
-Lab Assignment 2: Hello Triangle
 
+Lab Assignment 3 :
 
-Dr. Chowdhury is building a simple OpenGL project where a cyan-colored square is displayed on a white background. 
-On top of this square, he places a cyan triangle such that the triangle shares two corner points of the square. 
-He wants the OpenGL window to open with the title set as your name, and the program should close when the first letter of your name is pressed. 
-Apply your knowledge to implement this behavior for his project.  
+You will design an OpenGL program where three different types of triangles will be displayed on the screen: a right-angled triangle, an equilateral triangle, and an isosceles triangle. Each triangle should be placed on three different coordinate (like right angle in 1st coordinate,  equilateral in 2nd coordinate and  isosceles  in 3rd coordinate ) and assign 3 different color to these 3 different triangle of your choice.  
 
 
 
-  student info: 
+student info: 
 Gazi Ruman Hasan  
 0432310005101065  
+
 6B1
