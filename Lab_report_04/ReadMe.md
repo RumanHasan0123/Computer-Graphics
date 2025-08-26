@@ -1,14 +1,11 @@
-Lab Assignment 2: Hello Triangle
+Lab Assignment 4:
 
-
-Dr. Chowdhury is building a simple OpenGL project where a cyan-colored square is displayed on a white background. 
-On top of this square, he places a cyan triangle such that the triangle shares two corner points of the square. 
-He wants the OpenGL window to open with the title set as your name, and the program should close when the first letter of your name is pressed. 
-Apply your knowledge to implement this behavior for his project.  
+Dr. Islam is building a simple OpenGL project where a black-colored background is displayed in the window. In this background, he places an upside-down triangle at the center of the screen. The triangle starts with a cyan color and gradually transitions to white as time progresses and vice versa.  He wants the OpenGL window to open with the title set as your ID, and when the Escape key is pressed, the triangle’s color should immediately change to red. Apply your knowledge to implement this behavior for his project.
 
 
 
   student info: 
 Gazi Ruman Hasan  
 0432310005101065  
+
 6B1
